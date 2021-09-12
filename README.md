@@ -1,12 +1,11 @@
 # DJI-Dev-Exploration
 
-.
-└── DJI Developer
-    ├── MOBILE SDK
-    ├── UX SDK
-    ├── ONBOARD SDK
-    ├── PAYLOAD SDK
-    └── WINDOWS SDK
+- DJI Developer
+	- MOBILE SDK
+	- UX SDK
+	- ONBOARD SDK
+	- PAYLOAD SDK
+	- WINDOWS SDK
 
 - echo "# DJI-Dev-Exploration" >> README.md
 - git init
